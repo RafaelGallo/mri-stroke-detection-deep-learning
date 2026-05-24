@@ -11,17 +11,6 @@
 
 </div>
 
-## 📋 Table of Contents
-
-- [Business Problem](#business-problem)
-- [Dataset](#dataset)
-- [Solution Pipeline](#solution-pipeline)
-- [Models](#models)
-- [Results](#results)
-- [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
-- [References](#references)
-
 ## 🏥 Business Problem
 
 Stroke is a leading cause of death and long-term disability worldwide.
