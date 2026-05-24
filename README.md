@@ -9,6 +9,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
+![](https://github.com/RafaelGallo/mri-stroke-detection-deep-learning/blob/main/img/001.png?raw=true)
+
 </div>
 
 ## 🏥 Business Problem
